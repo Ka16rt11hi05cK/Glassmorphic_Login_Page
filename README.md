@@ -1,4 +1,2 @@
 # Glassmorphic_Login_Page created using HTML and CSS.
-
-![image](https://github.com/user-attachments/assets/204358a2-3b5e-41a0-95a8-d0a7006ebbde)
-
+![Screenshot 2024-11-02 185354](https://github.com/user-attachments/assets/ea05b4f1-b129-41a5-865c-03a4e5bffb2a)
